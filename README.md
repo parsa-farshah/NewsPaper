@@ -40,4 +40,4 @@ Frontend Developer
 
 ---
 
-![Project Screenshot](cover.jpg)
+![Project Screenshot](cover.png)
