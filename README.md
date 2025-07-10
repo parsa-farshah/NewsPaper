@@ -32,7 +32,7 @@ Parsa Dehghan Pour Farashah
 Frontend Developer
 
 ## 🔗 Live Demo  
-[🌐 View the Newspaper Digital Demo](https://parsa-farshah.github.io/NewspaperDigital/)
+[🌐 View the Newspaper Digital Demo](https://parsa-farshah.github.io/NewsPaper/)
 
 ## 📬 How to Reach Me  
 - Instagram: [@parsa_dehghanpour_dv](https://www.instagram.com/parsa_dehghanpour_dv)  
