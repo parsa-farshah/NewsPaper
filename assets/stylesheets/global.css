@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 100%;
+  width: 100%;
+  /* overflow-x: hidden; */
+  background-image: url(../images/bg.png);
+  font-family: "Girassol", serif;
+  color: var(#1c1f33);
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+p {
+  text-align: justify;
+}
